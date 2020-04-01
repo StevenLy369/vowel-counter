@@ -22,26 +22,14 @@ $(document).ready(function(){
 
             }
            
-        })
-        console.log(counter);
-        console.log(finalSentence);
-        
-
-
-
-    
-        
-
-
+        // })
+        // console.log(counter);
+        // console.log(finalSentence);
+        $("#result").text(counter);
     })
+  
     
-
-
-
-
-
-
-
+    })
 
 
 })
